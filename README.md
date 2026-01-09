@@ -3,6 +3,6 @@
 ### Nombre y carné de los integrantes: Jose Ignacio Paniagua Vargas - 2024163735
 
 
-### Estado del proyecto: En proceso
+### Estado del proyecto: Realizado
 ### Enlace del video:
 Recordar que el video debe ser público para ser visto por el profesor
